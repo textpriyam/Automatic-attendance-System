@@ -1,5 +1,5 @@
 
-# Automatic Attendance System
+## Automatic Attendance System
 This is an automatic attendance system that utilizes facial recognition technology to scan and log the attendance of authorized users. The system captures and analyzes the faces of individuals, compares them against a pre-existing database of authorized users, and records the time of their attendance in a CSV (Comma-Separated Values) file.
 
 Features:-
@@ -11,11 +11,11 @@ CSV File Export: Attendance records are stored in a CSV file format, allowing fo
 
 ## Tech Stack
 
-Python 3.7 or above
-OpenCV
-NumPy
-dlib
-face_recognition
+-Python 3.7 or above
+-OpenCV
+-NumPy
+-dlib
+-face_recognition
 
 
 ## Authors
