@@ -11,11 +11,11 @@ CSV File Export: Attendance records are stored in a CSV file format, allowing fo
 
 ## Tech Stack
 
--Python 3.7 or above
--OpenCV
--NumPy
--dlib
--face_recognition
+Python 3.7 or above
+OpenCV
+NumPy
+dlib
+face_recognition
 
 
 ## Authors
